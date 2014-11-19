@@ -7,7 +7,7 @@ simpleLiveReload
 <p>To run this project you will need to have installed:</p>
 <ol>
 <li><a href="//nodejs.org/download">NodeJs</a> &amp; npm --node package manager-- (comes with NodeJs);</li>
-<li>Grunt &amp; <a href="//gruntjs.com/getting-started">Grunt CLI</a>(Grunt command line interface) <br>Both installed via npm</li>
+<li>Grunt &amp; <a href="http://gruntjs.com/getting-started">Grunt CLI</a>(Grunt command line interface) <br>Both installed via npm</li>
 <li>&amp; Express (Also a module from NodeJs)</li>
 </ol>
 <p>To check that NodeJS & GruntCli are installed correctly type on you command line: 
