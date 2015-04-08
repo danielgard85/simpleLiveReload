@@ -1,9 +1,6 @@
 # Simple Live Reload
 ================
 
-## Overview
-Simple app using NodeJS + Grunt + Express to play around with css/js/html files.
-
 ### Prerequisites
 
 To run this project you will need to have installed:
